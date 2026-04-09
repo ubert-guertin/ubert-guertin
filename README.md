@@ -1,6 +1,6 @@
 ### [SaaS Projects](https://github.com/ubert-guertin-saas)
 
-### [Web Video Games Projects](https://github.com/ubert-guertin-games)
+### [Video Game Projects](https://github.com/ubert-guertin-games)
 
 ### [Nix Projects](https://github.com/ubert-guertin-nix)
 
