@@ -20,3 +20,5 @@
     <td><strong>Archives...</strong></td>
   </tr>
 </table>
+
+<p style="color: red;">* Click on the images</p>
