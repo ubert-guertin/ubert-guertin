@@ -1,24 +1,22 @@
-### SaaS Projects
-<a href="https://github.com/ubert-guertin-saas" style="display: flex;">
-  <img src="./saas_link.png" alt="Description" width="50">
-</a>
-
-### Video Game Projects
-<a href="https://github.com/ubert-guertin-games">
-  <img src="./game_link.png" alt="Description" width="50">
-</a>
-
-### Nix Projects
-<a href="https://github.com/ubert-guertin-nix">
-  <img src="./nix_link.png" alt="Description" width="50">
-</a>
-
-### School Projects
-<a href="https://github.com/ubert-guertin-school">
-  <img src="./school_link.png" alt="Description" width="50">
-</a>
-
-### Archives...
-<a href="https://github.com/ubert-guertin-archives">
-  <img src="./archive_link.png" alt="Description" width="50">
-</a>
+<table>
+  <tr>
+    <td><a href="https://github.com/ubert-guertin-saas"><img src="./saas_link.png" width="50"></a></td>
+    <td><strong>SaaS Projects</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ubert-guertin-games"><img src="./game_link.png" width="50"></a></td>
+    <td><strong>Video Game Projects</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ubert-guertin-nix"><img src="./nix_link.png" width="50"></a></td>
+    <td><strong>Nix Projects</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ubert-guertin-school"><img src="./school_link.png" width="50"></a></td>
+    <td><strong>School Projects</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ubert-guertin-archives"><img src="./archive_link.png" width="50"></a></td>
+    <td><strong>Archives...</strong></td>
+  </tr>
+</table>
